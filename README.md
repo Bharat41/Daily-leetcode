@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharat41/Daily-leetcode/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/Bharat41/Daily-leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharat41/Daily-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Bharat41/Daily-leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
