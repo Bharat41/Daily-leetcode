@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharat41/Daily-leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bharat41/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Bharat41/Daily-leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bharat41/Daily-leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bharat41/Daily-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharat41/Daily-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bharat41/Daily-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bharat41/Daily-leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
