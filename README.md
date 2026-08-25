@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharat41/Daily-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Bharat41/Daily-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bharat41/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharat41/Daily-leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bharat41/Daily-leetcode/tree/master/0242-valid-anagram) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bharat41/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -133,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Bharat41/Daily-leetcode/tree/master/1732-find-the-highest-altitude) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
