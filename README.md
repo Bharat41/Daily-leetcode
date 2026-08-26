@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bharat41/Daily-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bharat41/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bharat41/Daily-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bharat41/Daily-leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bharat41/Daily-leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bharat41/Daily-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharat41/Daily-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bharat41/Daily-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharat41/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharat41/Daily-leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Bharat41/Daily-leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/Bharat41/Daily-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
