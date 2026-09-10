@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharat41/Daily-leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bharat41/Daily-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharat41/Daily-leetcode/tree/master/0035-search-insert-position) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bharat41/Daily-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bharat41/Daily-leetcode/tree/master/0283-move-zeroes) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Bharat41/Daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharat41/Daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Bharat41/Daily-leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
