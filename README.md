@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Bharat41/Daily-leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Bharat41/Daily-leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bharat41/Daily-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharat41/Daily-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bharat41/Daily-leetcode/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Bharat41/Daily-leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
