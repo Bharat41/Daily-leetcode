@@ -231,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Bharat41/Daily-leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Bharat41/Daily-leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
