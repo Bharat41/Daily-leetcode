@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Bharat41/Daily-leetcode/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Bharat41/Daily-leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
