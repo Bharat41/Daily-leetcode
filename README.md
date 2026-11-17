@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bharat41/Daily-leetcode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Bharat41/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bharat41/Daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bharat41/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharat41/Daily-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bharat41/Daily-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bharat41/Daily-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharat41/Daily-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
