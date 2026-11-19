@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharat41/Daily-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Bharat41/Daily-leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bharat41/Daily-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharat41/Daily-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Bharat41/Daily-leetcode/tree/master/0709-to-lower-case) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharat41/Daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bharat41/Daily-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharat41/Daily-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharat41/Daily-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Bharat41/Daily-leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bharat41/Daily-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharat41/Daily-leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Floyd's Cycle Finding Algorithm
 |  |
