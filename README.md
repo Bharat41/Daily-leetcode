@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Bharat41/Daily-leetcode/tree/master/0155-min-stack) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharat41/Daily-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bharat41/Daily-leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Bharat41/Daily-leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bharat41/Daily-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Bharat41/Daily-leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
