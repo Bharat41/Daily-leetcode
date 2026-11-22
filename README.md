@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Bharat41/Daily-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bharat41/Daily-leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/Bharat41/Daily-leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Bharat41/Daily-leetcode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharat41/Daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bharat41/Daily-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharat41/Daily-leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bharat41/Daily-leetcode/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharat41/Daily-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bharat41/Daily-leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bharat41/Daily-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bharat41/Daily-leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Bharat41/Daily-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
