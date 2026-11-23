@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Bharat41/Daily-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat41/Daily-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bharat41/Daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Bharat41/Daily-leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Bharat41/Daily-leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bharat41/Daily-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Bharat41/Daily-leetcode/tree/master/0877-stone-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Bharat41/Daily-leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Bharat41/Daily-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bharat41/Daily-leetcode/tree/master/1929-concatenation-of-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bharat41/Daily-leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Bharat41/Daily-leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Bharat41/Daily-leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharat41/Daily-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/2390-removing-stars-from-a-string) |
