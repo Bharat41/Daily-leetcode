@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Bharat41/Daily-leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/Bharat41/Daily-leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharat41/Daily-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharat41/Daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bharat41/Daily-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharat41/Daily-leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Bharat41/Daily-leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Bharat41/Daily-leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Bharat41/Daily-leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharat41/Daily-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharat41/Daily-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Bharat41/Daily-leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
